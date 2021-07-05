@@ -1,0 +1,48 @@
+body {
+  padding: 50px 20px;
+  background-color: #FFF5FD;
+}
+
+img {
+  border: 2px;
+  border-radius: 5px;
+  padding: 30px;
+  height: 200px;
+  Width: 200px;
+}
+
+p{
+  font-size: 1.25rem;
+}
+li {
+  font-size: 1.25rem;
+}
+
+h2 {
+  text-align: center;
+  color: #99004B;
+}
+
+h3 {
+  text-align: center;
+  color: #99004B;
+}
+
+div {
+  padding: 10px;
+  margin: 0;
+  width: 250px;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 20%;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto
+}
